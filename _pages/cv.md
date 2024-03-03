@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
-======
+## 🎓 Education
+
 * Ph.D in Electrical and electronic engineering, the University of Hong Kong, 2027 (expected)
 * M.S. in Electrical and electronic engineering, the University of Hong Kong, 2023
 * B.S. in Optical Engineering, Nankai University, 2022
 
-## Research experience
-======
+## 📒 Research experience
+
 * *November 2022 - Present*: **Stereo Imaging with Learned Optics**
   * The University of Hong Kong
   * Team leader
@@ -36,8 +36,8 @@ orbital angular momentum, which has a wide range of applications in the field of
   * Designed a new manipulation pattern using the chromatic aberration with different ratio of different lasers (650nm and 405nm). Manipulated on axial trap position continuously using designed double-wavelength Gaussian beam on micro target. Position of this compound optical trap will shift when changing the ratio of beam.
   * Supervisor: Qian Sun
   
-## Skills
-======
+## 📚 Skills
+
 * Professional Courses
   * Optics
     * Optics, Optoelectronic Imaging Technology
@@ -59,7 +59,7 @@ orbital angular momentum, which has a wide range of applications in the field of
   * Solidworks, AutoCAD
 
 
-## Teaching
-======
+## 👩‍🏫 Teaching
+
 * Teacher Assistant in ELEC4544: Artificial Intelligence and Deep learning
   
