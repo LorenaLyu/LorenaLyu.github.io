@@ -14,7 +14,7 @@ I am very fortunate to be advised by [Prof. Evan Y. Peng](https://www.eee.hku.hk
 
 My research interest includes computational optics, computational photography, and optical system optimization.
 
-You can find my CV here: [Yuhui's Curriculum Vitae](../assets/resume.pdf).
+You can find my CV here: [📄](../assets/resume.pdf).
 
 ## 📮 Contacts
 Email: [liuyuhui@connect.hku.hk](liuyuhui@connect.hku.hk)
