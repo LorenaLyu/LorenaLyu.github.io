@@ -58,7 +58,7 @@ orbital angular momentum, which has a wide range of applications in the field of
   * COMSOL, Zemax
   * Solidworks, AutoCAD
 
-## 🎖 Honors
+## 🎖 Awards
 |      |      |
 | ---- | ---- |
 |Graduation Academic Scholarship in HKU (Top 3 in 180)                                 |Nov 2023  |
