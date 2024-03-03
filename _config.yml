@@ -21,7 +21,7 @@ repository               : "LorenaLyu/LorenaLyu.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personal.JPG"
+  avatar           : "personal.png"
   name             : "Liu Yuhui"
   #pronouns         : # example: "she/her"  
   bio              : "A PhD student in computational Optics to make light shape life better"
