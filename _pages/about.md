@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-👩🏻‍💼 I'm a first year PhD student from [Electrical and Electronic Engineering Department](https://www.eee.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). I am very fortunate to be advised by [Prof. Evan Y. Peng](https://www.eee.hku.hk/~evanpeng/) of [HKU WeLight Lab](https://hku.welight.fun/). My research interest includes *computational optics, computational photography, and optical system optimization*.
+# 👩🏻‍💼 
+I'm a first year PhD student from [Electrical and Electronic Engineering Department](https://www.eee.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). I am very fortunate to be advised by [Prof. Evan Y. Peng](https://www.eee.hku.hk/~evanpeng/) of [HKU WeLight Lab](https://hku.welight.fun/). My research interest includes computational optics, computational photography, and optical system optimization.
 
 📄 You can find my CV here: [Yuhui's Curriculum Vitae](../assets/Resume.pdf).
 
