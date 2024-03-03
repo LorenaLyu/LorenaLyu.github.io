@@ -46,14 +46,11 @@ orbital angular momentum, which has a wide range of applications in the field of
     * Mechanics, Multivariable Calculus, Method of Mathematical Physics, Quantum Mechanics
   * Engineering
     * Digital Signal Processing,  Digital Image Processing, Mechanical Drawing
-    * Fundamentals of Computer for Science and Engineering, Neural Networks and Fuzzy Systems
-    * Advanced Deep Learning for Computer Vision, Statistical Learning and Data Mining
+    * Neural Networks and Fuzzy Systems, Advanced Deep Learning for Computer Vision
 * Language
   * PyThon
-    * PyTorch/PyTorch-lightning
-    * Keras
-    * Pandas
-  * Matlab, R, LaTex
+    * PyTorch/PyTorch-lightning/Keras
+  * Matlab, R, LaTex, Markdown
 * Optical simulation and design software
   * COMSOL, Zemax
   * Solidworks, AutoCAD
