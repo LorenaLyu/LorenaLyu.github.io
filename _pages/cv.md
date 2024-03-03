@@ -60,21 +60,15 @@ orbital angular momentum, which has a wide range of applications in the field of
 
 ## 🎖 Honors
 
-| 11   | 22   |
-| ---- | ---- |
-| 22   |      |
-|      |      |
-|      |      |
 |Graduation Academic Scholarship in HKU (Top 3 in 180)                              |Nov 2023  |
 |Distinguished Dissertation Scholarship in HKU (Top 10%)                            |Nov 2023  |
 |Winner of “Pitching your innovative ideas 2023” by Innovation Wing in HKU(3 in 20) |Apr 2023  |
-|Academic Scholarship in HKU (Top 10%) |Mar 2023|
+|Academic Scholarship in HKU (Top 10%)                                              |Mar 2023|
 |Academic Excellence Scholarship in Nankai University (2.5%) | Nov 2020} |
-{Outstanding Student in the college of Physics, Nankai University}\hfill {\em Nov 2019}\\
-{Third Prize of Physics Academic Competition in Nankai University
-}\hfill {\em May 2019}\\
-{Centennial Anniversary Volunteer Special Comtribution Award in Nankai University} \hfill {\em Oct 2019} \\
-{First Prize of Theory Star Speech Contest in the college of Physics, Nankai University}\hfill {\em Sep 2018} 
+|Outstanding Student in the college of Physics, Nankai University}\hfill |Nov 2019}|
+|Third Prize of Physics Academic Competition in Nankai University| May 2019|
+|Centennial Anniversary Volunteer Special Comtribution Award in Nankai University| Oct 2019|
+|First Prize of Theory Star Speech Contest in the college of Physics, Nankai University| Sep 2018|
 
 
 ## 👩‍🏫 Teaching
