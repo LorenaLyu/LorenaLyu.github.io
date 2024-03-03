@@ -12,7 +12,7 @@ I'm a first year PhD student from [Electrical and Electronic Engineering Departm
 
 📄 You can find my CV here: [Yuhui's Curriculum Vitae](../assets/Resume.pdf).
 
-📮 【Email: liuyuhui@connect.hku.hk](liuyuhui@connect.hku.hk)
+📮 [Email](liuyuhui@connect.hku.hk): liuyuhui@connect.hku.hk
 
 🖥️ [Github](https://github.com/LorenaLyu) / [Linkedin](https://www.linkedin.com/in/yuhui-lyu-lorena/)
 
