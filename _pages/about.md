@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuhui Liu"
+title: "Liu Yuhui"
 author_profile: true
 redirect_from: 
   - /about/
