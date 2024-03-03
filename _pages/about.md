@@ -17,9 +17,11 @@ My research interest includes computational optics, computational photography, a
 You can find my CV here: [Yuhui's Curriculum Vitae](../assets/resume.pdf).
 
 ## 📮 Contacts
-[Email](liuyuhui@connect.hku.hk): liuyuhui@connect.hku.hk
+Email: [liuyuhui@connect.hku.hk](liuyuhui@connect.hku.hk)
 
-[Github](https://github.com/LorenaLyu) / [Linkedin](https://www.linkedin.com/in/yuhui-lyu-lorena/)
+Linkedin: [https://www.linkedin.com/in/yuhui-lyu-lorena/](https://www.linkedin.com/in/yuhui-lyu-lorena/)
+
+Github:[https://github.com/LorenaLyu](https://github.com/LorenaLyu) 
 
 ## 📔 Some of my Current Research
 
