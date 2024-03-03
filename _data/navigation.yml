@@ -5,6 +5,9 @@ main:
 
   #- title: "Talks"
     #url: /talks/    
+  - title: "About Me"
+    url: /about/
+    
   - title: "Project"
     url: /portfolio/
     
