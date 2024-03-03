@@ -14,7 +14,6 @@ You can find my CV here: [Yuhui's Curriculum Vitae](../assets/Resume.pdf).
 
 # 📮 Contacts
 [Email](liuyuhui@connect.hku.hk): liuyuhui@connect.hku.hk
-
 [Github](https://github.com/LorenaLyu) / [Linkedin](https://www.linkedin.com/in/yuhui-lyu-lorena/)
 
 # 📔 Some of my Current Research
