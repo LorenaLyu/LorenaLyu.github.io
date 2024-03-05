@@ -70,5 +70,5 @@ orbital angular momentum, which has a wide range of applications in the field of
 
 ## 👩‍🏫 Teaching
 
-* Teacher Assistant in ELEC4544: Artificial Intelligence and Deep learning
+* Teaching Assistant in ELEC4544: Artificial Intelligence and Deep learning
   
