@@ -25,14 +25,14 @@ Github:[https://github.com/LorenaLyu](https://github.com/LorenaLyu)
 
 ## 📔 Some of my Current Research
 
-### 📹 [Stereo Deep Optics (RGBD Imaging)](https://lorenalyu.github.io//portfolio/portfolio-1/)
+### 📹 Stereo Deep Optics (RGBD Imaging)
 
 In this project, I am seeking a high-fidelity stereo RGBD imaging paradigm that is different from traditional computer vision approaches.
 
 <img src='/images/stereo.png'>
 
 
-### 🏞️ [Exploring Hyperspectral Display](https://lorenalyu.github.io//portfolio/portfolio-2/)
+### 🏞️ Exploring Hyperspectral Display
 
 We would like to design a hyperspectral display which can serve as a study platform for investigating visual perception, hopefully leading to improved image quality and increased immersion of numerous VR/AR and medical science applications. 
 
