@@ -27,7 +27,7 @@ Github:[https://github.com/LorenaLyu](https://github.com/LorenaLyu)
 
 ### 📹 Stereo Deep Optics (RGBD Imaging)
 
-In this project, I am seeking a high-fidelity stereo RGBD imaging paradigm that is different from traditional computer vision approaches.
+In this project, I am seeking a high-fidelity stereo RGBD imaging paradigm that is different from traditional computer vision approaches. We utilize a shallow depth-of-field blurred image captured by a binocular simple lens system combined with optimizable optical elements to obtain high-fidelity 3D image.
 
 <img src='/images/stereo.png'>
 
